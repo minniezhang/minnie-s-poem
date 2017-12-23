@@ -1,3 +1,28 @@
-# First Chapter
+# 秋天
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+2017-12-15
+
+---
+
+秋天是个淘气的孩子,
+
+它走在路上,
+
+时不时撒把金黄的落叶,
+
+看到了小动物,
+
+送几个苹果,
+
+看到了人们,
+
+把庄稼给催熟.
+
+大家都喜欢秋天,
+
+因为它是个丰收的季节,
+
+人们都来向它致谢!
+
+
+
